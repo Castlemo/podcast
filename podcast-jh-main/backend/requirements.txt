@@ -1,0 +1,16 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.11.9
+python-dotenv==1.0.0
+openai==1.109.0
+requests==2.31.0
+aiofiles==23.2.1
+python-multipart==0.0.6
+pydub==0.25.1
+asyncio==3.4.3
+pathlib==1.0.1
+uuid==1.30
+loguru==0.7.2
+elevenlabs==2.16.0
+beautifulsoup4==4.12.3
+PyPDF2==3.0.1
